@@ -1,22 +1,21 @@
 body {
     margin: 20vh 0 0; /* Sets the margin of the body element */
+    background: url('https://s3-website-azr.s3.amazonaws.com/Wallpaper.gif');
+    background-size: cover; /* Scale the background image to cover the entire element */
+    background-attachment: fixed;
     text-align: center;
-    font-family: "Lucida Console", monospace;
     color: white;
 }
 
-.animated-background {
-    width: 100%;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -1; /* Puts the background behind other content */
-    background: url('https://s3-website-azr.s3.amazonaws.com/Wallpaper.gif') center/cover;
+h1{
+    font-size: 40px;
+    font-family: "Arial Black", sans-serif;
+    margin-bottom: 50px;
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
+    font-family: "Andalé Mono", monospace;
 }
 
 input[type="text"] { /* Sets width between text input and input field */
