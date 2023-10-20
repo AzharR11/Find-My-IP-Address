@@ -1,0 +1,43 @@
+body {
+    margin: 20vh 0 0; /* Sets the margin of the body element */
+    background: url('https://s3-website-azr.s3.amazonaws.com/Wallpaper.gif');
+    background-size: cover; /* Scale the background image to cover the entire element */
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-size: 40px;
+    font-family: "Arial Black", sans-serif;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Andalé Mono", monospace;
+}
+
+input[type="text"] { /* Sets width between text input and input field */
+    width: 200px;
+    padding: 5px;
+    margin: 0 auto;
+    display: block;
+}
+
+button {
+    background-color: rgb(55, 155, 55);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid rgb(55, 155, 55); /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer;
+    margin: 10px auto; /* Centers the button horizontally with some top margin */
+    display: block; /* Makes the button a block-level element */
+    transition: background-color 0.3s, color 0.3s; /* Add a smooth transition effect for hover */
+}
+
+button:hover {
+    background-color: darkgreen; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
