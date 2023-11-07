@@ -10,11 +10,7 @@ The project's primary objective was to create a static website hosted on AWS, of
 
 ### Technologies
 #### Website
-HTML - 
-
-CSS - 
-
-JavaScript -
+I structured the web pages using HTML to define the content and layout. For the user interface, I integrated various elements, including text, an input field allowing users to input their names, a submission button, and a dedicated space to exhibit the output message. CSS was used to enhance the visual style of the webpage. JavaScript played a central role in managing user input, processing it when the submit button was clicked, and generating the intended output through the utilisation of a REST API. Additionally, it was used to implement a typewriter effect for the displayed output. 
 
 #### AWS
 My goal was to automate the deployment process as much as possible. To achieve this, I harnessed the power of AWS CloudFormation as an Infrastructure as Code (IAC) method. Using a YAML template, I defined the entire infrastructure.
