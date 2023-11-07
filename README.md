@@ -40,15 +40,13 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 * Once the stack has been created the CNAME's from the created SSL certificate need to be added into the created hosted zone in order to verify and issue the certificate.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a6b0a7cf-9744-4f16-b30b-fe0cb54f8353)
-
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/bb7e414f-9b58-4e5b-98b7-2fed5618a77e)
-
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/c84d7e92-a320-4767-9b2c-0bd58face1f6)
-
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/c89f1960-004a-470c-9b72-5db51cdbb598)
 
-![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/23a0c8b3-5365-434b-ab54-d6260033bd41)
+* The registered domain name must also have the same NS as the ones in the created hosted zone
 
+![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/23a0c8b3-5365-434b-ab54-d6260033bd41)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a8aa481b-043a-4689-ba60-e6c67e69cfae)
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/957bf62b-2465-4f18-8f6d-1993cf684321)
