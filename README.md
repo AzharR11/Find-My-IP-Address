@@ -69,7 +69,7 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/e0e18ddf-2f1a-4516-9314-1f2bbec37005)
 
-* The CloudFront distribution has also been configured correctly to utilise the custom domain names and the created SSL certificate
+* The CloudFront distribution has also been configured correctly to point to the created S3 bucket, utilise the custom domain names and the created SSL certificate.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/2fa049dc-bb1d-4eac-8623-5e51b2884540)
 
