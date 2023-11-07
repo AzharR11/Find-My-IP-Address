@@ -6,7 +6,7 @@
 ---
 ## Description
 ### Purpose
-The purpose was to develop a static website hosted on AWS that incorporated basic user input to generate an output, including the user's provided name and their current IP address. The IP address retrieval was achieved through a REST API.
+The project's primary objective was to create a static website hosted on AWS, offering a seamless user experience. It allows users to input their name and receive a personalised message by clicking the submit button. The custom message is generated using both the user-provided name and their IP address which was retrieved in real-time via REST API.
 ### Technologies - why
 ### Features to implement in the future
 
