@@ -48,10 +48,10 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/23a0c8b3-5365-434b-ab54-d6260033bd41)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a8aa481b-043a-4689-ba60-e6c67e69cfae)
-
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/957bf62b-2465-4f18-8f6d-1993cf684321)
-
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/15cafca5-4c6a-47f8-a449-055083010ef9)
+
+* Once this is done the certificate should be issued for use.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/3595689f-8051-4fa2-a545-5c5b8ce4eddd)
 
