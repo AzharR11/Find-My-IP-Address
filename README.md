@@ -29,11 +29,16 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 ---
 ## Deployment 
 * The first step is to create a CloudFormation stack utilising the created YAML template.
+  
+  
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/c01c39bd-1dd5-486b-8bee-aa77a026243d)
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/4b4ad059-81bc-4b2c-8079-a42c8439406a)
 
+
 * The name of the bucket can be configured at the time of stack creation, this was made possible because of the parameters section added in the YAML template.
+
+  
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a13f1330-b96c-4729-8767-a94548efd94c)
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a6b0a7cf-9744-4f16-b30b-fe0cb54f8353)
