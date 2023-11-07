@@ -28,7 +28,7 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 
 ---
 ## Deployment 
-* The first step is to create a CloudFormation stack utilising the created YAML template.
+* The first step is to create a CloudFormation stack utilising the created YAML template, this will create and configure the necessary resources.
   
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/c01c39bd-1dd5-486b-8bee-aa77a026243d)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/4b4ad059-81bc-4b2c-8079-a42c8439406a)
@@ -37,7 +37,7 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
   
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a13f1330-b96c-4729-8767-a94548efd94c)
 
-* Once the stack has been created the CNAME's from the created SSL certificate need to be added into the created hosted zone in order to verify and issue the certificate.
+* Once the stack has been created the CNAME's from the created SSL certificate need to be added manually into the created hosted zone in order to verify and issue the certificate.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a6b0a7cf-9744-4f16-b30b-fe0cb54f8353)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/bb7e414f-9b58-4e5b-98b7-2fed5618a77e)
@@ -60,14 +60,20 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/b53214c7-7a70-49ef-9c66-b2f404f95b6e)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/f459ba78-3c87-4b7e-8b61-4a131750f0ce)
 
-* The website files are then uploaded into the S3 bucket.
+* The website files are then manually uploaded into the S3 bucket.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/81193d59-d6de-4d73-abce-c6ffa832ea0f)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/b9bf3a1e-80ac-4cb6-b847-d6090d3545ae)
 
+* Now the CloudFormation stack has been created successfully along with all of the specified resources. 
+
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/e0e18ddf-2f1a-4516-9314-1f2bbec37005)
 
+* The CloudFront distribution has also been configured correctly to utilise the custom domain names and the created SSL certificate
+
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/2fa049dc-bb1d-4eac-8623-5e51b2884540)
+
+* The website is live.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/f8c9a7ba-c02a-44c1-8d86-45146eaae78d)
 
