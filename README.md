@@ -6,6 +6,7 @@
 ---
 ## Description
 ### Purpose
+The purpose was to develop a static website hosted on AWS that incorporated basic user input to generate an output, including the user's provided name and their current IP address. The IP address retrieval was achieved through a REST API.
 ### Technologies - why
 ### Features to implement in the future
 
