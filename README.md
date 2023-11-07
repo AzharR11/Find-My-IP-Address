@@ -7,7 +7,9 @@
 ## Description
 ### Purpose
 The project's primary objective was to create a static website hosted on AWS, offering a seamless user experience. It allows users to input their name and receive a personalised message by clicking the submit button. The custom message is generated using both the user-provided name and their IP address which is retrieved in real-time via a REST API.
-### Technologies - why
+### Technologies
+#### Website
+HTML - 
 ### Features to implement in the future
 
 ---
