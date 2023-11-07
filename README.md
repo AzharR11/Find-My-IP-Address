@@ -55,9 +55,12 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/3595689f-8051-4fa2-a545-5c5b8ce4eddd)
 
-![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/b53214c7-7a70-49ef-9c66-b2f404f95b6e)
+* The S3 bucket has also been created and we can see that it has been configured correctly with the S3 bucket policy.
 
+![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/b53214c7-7a70-49ef-9c66-b2f404f95b6e)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/f459ba78-3c87-4b7e-8b61-4a131750f0ce)
+
+* The website files are then uploaded into the S3 bucke.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/81193d59-d6de-4d73-abce-c6ffa832ea0f)
 
