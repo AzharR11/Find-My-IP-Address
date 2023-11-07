@@ -10,6 +10,8 @@ The project's primary objective was to create a static website hosted on AWS, of
 ### Technologies
 #### Website
 HTML - 
+CSS - 
+JavaScript
 ### Features to implement in the future
 
 ---
