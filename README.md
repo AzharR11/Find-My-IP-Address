@@ -37,6 +37,8 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
   
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a13f1330-b96c-4729-8767-a94548efd94c)
 
+* Once the stack has been created the CNAME's from the created SSL certificate need to be added into the created hosted zone in order to verify and issue the certificate.
+
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/a6b0a7cf-9744-4f16-b30b-fe0cb54f8353)
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/bb7e414f-9b58-4e5b-98b7-2fed5618a77e)
