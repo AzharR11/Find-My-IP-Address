@@ -22,7 +22,9 @@ My goal was to automate the deployment process as much as possible. To achieve t
 I chose Amazon S3 as the hosting platform for the static website due to its suitability for this purpose. To enhance the website's performance, I implemented Amazon CloudFront as a content delivery network (CDN), leveraging its edge locations to reduce latency and optimize load times.
 
 Within this CloudFormation stack, I created the S3 bucket, configuring it to facilitate static site hosting. Additionally, I attached a GetObject policy to the S3 bucket for proper access control. The stack also included the setup of a CloudFront distribution, ensuring that content was served securely. I integrated an SSL certificate and a Route 53 hosted zone to manage DNS. To provide a seamless user experience, I added domain records within the hosted zone, pointing them to the CloudFront distribution. This distribution was configured to utilize the SSL certificate and the custom domain names as aliases.
+
 ### Features to implement in the future
+Looking ahead, I'd like to further streamline the deployment process by eliminating the need for manual uploads of website files into the designated S3 bucket.
 
 ---
 ## AWS Architecture
