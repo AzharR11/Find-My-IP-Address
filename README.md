@@ -60,10 +60,9 @@ Looking ahead, I'd like to further streamline the deployment process by eliminat
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/b53214c7-7a70-49ef-9c66-b2f404f95b6e)
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/f459ba78-3c87-4b7e-8b61-4a131750f0ce)
 
-* The website files are then uploaded into the S3 bucke.
+* The website files are then uploaded into the S3 bucket.
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/81193d59-d6de-4d73-abce-c6ffa832ea0f)
-
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/b9bf3a1e-80ac-4cb6-b847-d6090d3545ae)
 
 ![image](https://github.com/AzharR11/Find-My-IP-Address/assets/51958831/e0e18ddf-2f1a-4516-9314-1f2bbec37005)
